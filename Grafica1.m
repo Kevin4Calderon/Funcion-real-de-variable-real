@@ -13,5 +13,5 @@ clear
 x = 5:0.1:100
 %Rango de la funcion 
 fx = (1)+((x-4).^(1/2)) 
-%Funcion con el plot
+%Funcion a plotear
 plot(x, fx) 
