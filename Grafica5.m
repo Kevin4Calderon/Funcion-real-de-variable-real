@@ -13,5 +13,5 @@ clear
 z = -100:0.1:100;
 % Rango de la funcion 
 gz = (abs(z).^3);
-% Funcion con el plot 
+% Funcion a plotear
 plot (z, gz)
