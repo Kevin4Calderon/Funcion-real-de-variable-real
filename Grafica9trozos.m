@@ -1,5 +1,5 @@
 % Octave Script
-% Title         :Primera funcion de trozo
+% Title         :Grafica 9
 % Author        :Kevin Yoan Calderón García
 % Description   :Script para graficar una funcion
 % Date          :28/10/2021
