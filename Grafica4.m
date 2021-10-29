@@ -11,7 +11,6 @@
 clear
 % Dominio de la funcion
 x=-100:10:100;
-% Rango de la funcion
 fx=(x.^2)+(6*(x));
 % Funcion a plotear
 plot(x, fx)
