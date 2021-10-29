@@ -13,5 +13,5 @@ clear
 t = -100:1:100;
 % Rango de la funcion
 ft = (t)./(2-t);
-% Funcion con el plor
+% Funcion a plotear
 plot(t, ft)
