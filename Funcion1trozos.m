@@ -11,7 +11,7 @@
 clear 
 % Dominio de la funcion 
 % Calcular f(-1), f(1), f(2)
-f= @(x) (-x+2)*(x<-1)+(x)*(x>=-1)*(x<=2)+(2)*(x>2);
+f = @(x) (-x+2)*(x<-1)+(x)*(x>=-1)*(x<=2)+(2)*(x>2);
 f(-1)
 f(1)
 f(2)
