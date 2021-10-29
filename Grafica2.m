@@ -6,7 +6,7 @@
 % Version       :1
 % Usage         :octave
 %               :
-%               :Requiere aplicacion de octave
+%               :Requiere de octave
 
 clear
 % Dominio de la funcion
