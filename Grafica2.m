@@ -13,5 +13,5 @@ clear
 x = -100:10:100;
 % Rango de la funcion
 fx = ((1)+(x.^2)); 
-% Funcion con el plot
+% Funcion a plotear
 plot(x, fx)
