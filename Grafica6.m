@@ -13,5 +13,5 @@ clear
 t = -50:0.1:50;
 % Rango de la funcion
 ht = (t-1)./(t-2)
-% Funcion con el plot
+% Funcion a plotear
 plot (t, ht)
