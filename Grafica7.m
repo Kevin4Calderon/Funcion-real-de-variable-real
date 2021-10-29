@@ -13,5 +13,5 @@ clear
 x = -50:0.1:50;
 % Rango de la Funcion 
 fx = (2*x.^2+3*x)./(x.^2+4*x+5) 
-% Funcion con el plot
+% Funcion a plotear
 plot (x, fx)
